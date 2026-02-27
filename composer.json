@@ -1,0 +1,21 @@
+{
+  "name": "drupal/fapi_colorpicker",
+  "description": "Provide the Colorpicker form element. Usefull for custom forms.",
+  "type": "drupal-module",
+  "homepage": "http://drupal.org/project/fapi_colorpicker",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Reva Gomes",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "http://drupal.org/project/fapi_colorpicker",
+    "source": "http://cgit.drupalcode.org/fapi_colorpicker"
+  },
+  "require" : {
+    "drupal/core": "^10 || ^11"
+  },
+  "license": "GPL-2.0-or-later"
+}

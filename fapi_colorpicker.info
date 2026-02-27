@@ -1,7 +1,0 @@
-name = Colorpicker form element
-description = Provide the Colorpicker form element. Usefull for custom forms.
-php = 5.3
-core = 7.x
-project = fapi_colorpicker
-
-dependencies[] = color_field

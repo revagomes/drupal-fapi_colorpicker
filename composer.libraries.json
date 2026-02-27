@@ -1,0 +1,39 @@
+{
+  "name": "drupal/fapi_colorpicker",
+  "description": "The web's most popular icon set and toolkit.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "homepage": "https://drupal.org/project/fapi_colorpicker",
+  "authors": [
+    {
+      "name": "Reva Gomes (revagomes)",
+      "homepage": "https://www.drupal.org/u/revagomes",
+      "role": "Maintainer"
+    }
+  ],
+  "repositories": {
+    "bgrins-spectrum": {
+      "type": "package",
+      "package": {
+        "name": "bgrins-spectrum/bgrins-spectrum",
+        "version": "1.7.0",
+        "type": "drupal-library",
+        "extra": {
+          "installer-name": "fontawesome"
+        },
+        "dist": {
+          "url": "https://github.com/bgrins/spectrum/archive/1.7.0.zip",
+          "type": "zip"
+        },
+        "require": {
+          "composer/installers": "^1.2.0||^2.0"
+        }
+      }
+    }
+  },
+  "require": {
+    "bgrins-spectrum/bgrins-spectrum": "1.7.0"
+  }
+}
+
