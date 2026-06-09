@@ -1,7 +1,5 @@
-name:  Colorpicker form element
+name: 'Colorpicker form element'
 type: module
-description: 'Provide the Colorpicker form element. Usefull for custom forms.'
-core_version_requirement: ^10 || ^11
-package: 'Development'
-dependencies:
-  - drupal:color_field
+description: 'Provides a colorpicker form element for use in custom forms.'
+package: Form
+core_version_requirement: ^10.3 || ^11
