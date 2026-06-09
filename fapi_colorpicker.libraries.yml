@@ -1,0 +1,6 @@
+colorpicker:
+  js:
+    js/fapi_colorpicker.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
