@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="fapi_colorpicker">
+  <description>Drupal coding standards for fapi_colorpicker.</description>
+
+  <file>src/</file>
+  <file>fapi_colorpicker.module</file>
+
+  <arg name="extensions" value="php,inc,module,install,yml"/>
+  <arg name="colors"/>
+  <arg value="sp"/>
+
+  <rule ref="Drupal"/>
+  <rule ref="DrupalPractice"/>
+</ruleset>
