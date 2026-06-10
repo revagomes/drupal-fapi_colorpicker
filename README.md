@@ -1,6 +1,6 @@
 # Colorpicker form element (`fapi_colorpicker`)
 
-[![CI](https://github.com/drupal-contrib/fapi_colorpicker/actions/workflows/ci.yml/badge.svg)](https://github.com/drupal-contrib/fapi_colorpicker/actions/workflows/ci.yml)
+[![CI](https://github.com/revagomes/drupal-fapi_colorpicker/actions/workflows/ci.yml/badge.svg)](https://github.com/revagomes/drupal-fapi_colorpicker/actions/workflows/ci.yml)
 [![Drupal 10.3+](https://img.shields.io/badge/Drupal-10.3%2B-blue)](https://www.drupal.org/project/fapi_colorpicker)
 [![Drupal 11](https://img.shields.io/badge/Drupal-11-blue)](https://www.drupal.org/project/fapi_colorpicker)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
